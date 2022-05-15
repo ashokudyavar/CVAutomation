@@ -37,3 +37,18 @@ Detection
 <p align="center">
   <img width="746" height="88" src="https://user-images.githubusercontent.com/34507375/168481706-67b5e5c6-8bfb-472d-92cf-9bb0512d0b52.png">
 </p>
+<b>Highlight Detection</b>
+<p align="left">
+Use highlightDetection.py for detection
+Input
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34507375/168484262-70451217-8018-417c-b52a-d9c2823f954e.png">
+</p>
+<p align="left">
+Output
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34507375/168484312-ab5e518e-07e5-43f3-84a6-be28a7216c23.png">
+</p>
+
